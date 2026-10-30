@@ -31,3 +31,7 @@ This project focuses on analyzing e-commerce sales data using Microsoft Excel an
 
 ## Conclusion
 This project helped me practice data cleaning, data analysis, visualization, and dashboard creation using Excel and Power BI.
+
+## Dashboard Preview
+
+![E-commerce Sales Dashboard](Ecommerce_Sales_Dashboard.png)
